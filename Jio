@@ -64,5 +64,11 @@
         "key": "d8",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "b8a7700b07918738",
+        "key": "d9",
+        "expirydate": "20-06-2026",
+        "Allowoffline": false
     }
 ]
